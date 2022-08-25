@@ -6,9 +6,18 @@
 
 
 **Fig.1** Shows my solution to the quiz001. The procedure to generate the outputs below are:
-| input    | output |
-|----------|--------|
-| 6        | 1      |
-| 100      | 1      |
-| 999      | 1      |
-| Infinity | 1      |
+
+| input                        | output          |
+|------------------------------|-----------------|
+| international                | i11l            |
+| (cats) + (dogs) + (troubles) | (4) + (8) = (8) |
+
+1. Get Input.
+2. Separate the input by words.
+3. For each word: 
+
+a. Calculate the number of the characters.(nc)
+
+b. If the nc>2, first letter+(nc-2)+last letter. 
+  
+c. If not, then just print the word.
