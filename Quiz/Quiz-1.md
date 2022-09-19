@@ -31,12 +31,6 @@ The procedure to generate the outputs below are:
 
 Program:
 ```.py
-#08.25.2022 Quiz #1
-#Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
-#Print the first letter, the number of letters without the first and last letters, and the last letter.
-#The counter should count each words individually and not the whole sentence.
-
-
 input = input("Input: ") #User inputs whatever alphabet or letter
 words = input.split(' ') #Split the input by spaces
 x = 0 #Loop counter
