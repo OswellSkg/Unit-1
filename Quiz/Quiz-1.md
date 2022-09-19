@@ -5,8 +5,11 @@
 
 #The counter should count each words individually and not the whole sentence.
 
+#https://docs.google.com/presentation/d/1AdYQ_ch5KAz-V7YcOctjIEK-Uyp_hBH6OoateH34Z_s/
+
 
 ------------------------------------------------------------------------
+
 The procedure to generate the outputs below are:
 
 | input                        | output          |
@@ -24,10 +27,9 @@ The procedure to generate the outputs below are:
 
   c. If not, then just print the word.
 
-
 ------------------------------------------------------------------------
 
-The coded program:
+Program:
 ```.py
 #08.25.2022 Quiz #1
 #Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
