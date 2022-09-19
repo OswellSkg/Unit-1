@@ -1,10 +1,9 @@
 #08.25.2022 Quiz #1
 #Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
+
 #Print the first letter, the number of letters without the first and last letters, and the last letter.
+
 #The counter should count each words individually and not the whole sentence.
-
-![Quiz001-1](https://user-images.githubusercontent.com/112055140/186579273-91972721-a52b-4d5e-9bee-540f544670e8.jpg)
-
 
 **Fig. 1** This is the solution to the black box
 
