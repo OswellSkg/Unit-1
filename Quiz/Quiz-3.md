@@ -2,6 +2,8 @@
 
 #Header Comment: Create a program that translate the proteins in the DNA chain.
 
+#[https://docs.google.com/presentation/d/1Uqg2Nmkv4x-jS_XNBVeVQyHhmbwMmoCo6So38QEoiBY/](https://docs.google.com/presentation/d/1Uqg2Nmkv4x-jS_XNBVeVQyHhmbwMmoCo6So38QEoiBY/)
+
 ------------------------------------------------------------------------
 
 Program:
