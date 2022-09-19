@@ -1,5 +1,8 @@
-#09-02-2022 Quiz 05.a
+## 09-02-2022 Quiz 05.a
+
 #Given a number, create a program that produces the output factors.
+
+
 
 ```.py
 number = int(input("Input number: "))
