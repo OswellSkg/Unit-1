@@ -46,7 +46,12 @@ while x < len(words): #len(words) counts how many words there are, and x counts 
        print(words[x])
        x = x + 1
 ```
+
 ------------------------------------------------------------------------
+
 Proof:
-![Screen Shot 2022-09-19 at 20 58 23](https://user-images.githubusercontent.com/112055140/191012238-eb32ecc0-c6aa-489e-b9b5-2d39b4cf9775.png)
-![Screen Shot 2022-09-19 at 20 58 38](https://user-images.githubusercontent.com/112055140/191012255-40c4add0-c08f-451a-a3da-b81f90106566.png)
+### Fig.1
+Input: International | Output: I11l
+<img width="1026" alt="Input: International | Output: I11l" src="https://user-images.githubusercontent.com/112055140/191014532-cc4156e7-2aee-45fe-a384-8905027e1a4b.png">
+<img width="1026" alt="Input: (cats) + (dogs) = (troubles) | Output:(4) + (4) = (8)" src="https://user-images.githubusercontent.com/112055140/191014541-15e0396a-a260-47f8-926e-c730f78b601d.png">
+
