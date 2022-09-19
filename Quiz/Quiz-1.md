@@ -10,7 +10,7 @@
 | input                        | output          |
 |------------------------------|-----------------|
 | international                | i11l            |
-| (cats) + (dogs) + (troubles) | (4) + (8) = (8) |
+| (cats) + (dogs) = (troubles) | (4) + (8) = (8) |
 
 1. Get Input.
 2. Separate the input by words.
