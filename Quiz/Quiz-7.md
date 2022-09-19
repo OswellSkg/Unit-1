@@ -2,6 +2,7 @@
 
 #Header Comment: Create a program that creates 10 random password with digits and letters of length 20.
 
+#[Google Slides Link](https://docs.google.com/presentation/d/1lhqm8ulFAlmLRXsSdNC7klPUah0-i_gXCnA24iQ_YqY/)
 
 ------------------------------------------------------------------------
 
