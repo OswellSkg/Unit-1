@@ -24,7 +24,18 @@ else:
 ------------------------------------------------------------------------
 
 Proof:
+### Fig.1
+Input: A | Output: T
 <img width="1025" alt="Input: A | Output: T" src="https://user-images.githubusercontent.com/112055140/191013837-8ef1cb12-856a-47a9-aa26-ee0e002519bd.png">
+
+### Fig.2
+Input: T | Output: A
 <img width="1025" alt="Input: T | Output: A" src="https://user-images.githubusercontent.com/112055140/191013850-1395341f-6733-499f-93a6-4e0e38990327.png">
+
+### Fig.3
+Input: C | Output: G
 <img width="1026" alt="Input: C | Output: G" src="https://user-images.githubusercontent.com/112055140/191013860-fe2d058a-71e3-433f-813d-93cfb1078142.png">
+
+### Fig.4
+Input: G | Output: C
 <img width="1027" alt="Input: G | Output: C" src="https://user-images.githubusercontent.com/112055140/191013868-214512cb-6d93-4184-b1c4-95df2be313c7.png">
