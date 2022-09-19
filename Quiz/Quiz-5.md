@@ -2,8 +2,9 @@
 
 #Given a number, create a program that produces the output factors.
 
+------------------------------------------------------------------------
 
-
+Program:
 ```.py
 number = int(input("Input number: "))
 counter = 1
@@ -17,5 +18,9 @@ while counter < number:
     else:
         counter += 1
 ```
+
+------------------------------------------------------------------------
+
+###Fig.1
 
 ![Screen Shot 2022-09-19 at 19 11 35](https://user-images.githubusercontent.com/112055140/190995780-a086693b-816e-4ede-8d36-56033fddda86.png)
