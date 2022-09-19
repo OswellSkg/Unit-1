@@ -19,6 +19,19 @@ print(f"Your answer to the quiz is {output}")
 ```
 ------------------------------------------------------------------------
 Proof:
-![Screen Shot 2022-09-19 at 18 32 28](https://user-images.githubusercontent.com/112055140/190989443-6825319b-8e88-440e-bb03-bd81876b1e2c.png)
-![Screen Shot 2022-09-19 at 18 53 48](https://user-images.githubusercontent.com/112055140/190992912-a71d38e5-160b-499a-bc2a-20e59b1da230.png)
-![Screen Shot 2022-09-19 at 18 53 55](https://user-images.githubusercontent.com/112055140/190992940-dfc18b43-f3ad-4539-a1b1-81e10117e2a0.png)
+### Fig.1
+Input: 20,20 | Output: True
+<img width="1026" alt="Input: 20,20 | Output: True" src="https://user-images.githubusercontent.com/112055140/191015799-3f4e1cc0-e82a-44a7-a2b1-e7f400009360.png">
+
+### Fig.2
+Input: 20,100 | Output: True
+<img width="1026" alt="Input: 20,100 | Output: True" src="https://user-images.githubusercontent.com/112055140/191015824-054ec3a3-9d2e-4ea8-8137-287913647a12.png">
+
+### Fig.3
+Input: 100,20 | Output: True
+<img width="1026" alt="Input: 100,20 | Output: True" src="https://user-images.githubusercontent.com/112055140/191015839-0fbc3a09-b7c9-4c71-b6bb-c721caa1ba07.png">
+
+### Fig.4
+Input: 100,100 | Output: False
+<img width="1026" alt="Input: 100,100 | Output: False" src="https://user-images.githubusercontent.com/112055140/191015864-34e4aa49-2ff8-4675-836e-df55a2dbadd9.png">
+
