@@ -1,7 +1,7 @@
 ## 09.01.2022 Quiz 002
 #Header Comment: Given 2 numbers, A and B, output TRUE if one of them is 20 or if their sum is 20.
 
-#[https://docs.google.com/presentation/d/1-OQ_8RiP4aocDOHyJCb4n9fQbw9uuG8ynlidZTXRoUQ/](https://docs.google.com/presentation/d/1-OQ_8RiP4aocDOHyJCb4n9fQbw9uuG8ynlidZTXRoUQ/)
+#[Google Slides Link](https://docs.google.com/presentation/d/1-OQ_8RiP4aocDOHyJCb4n9fQbw9uuG8ynlidZTXRoUQ/)
 
 ------------------------------------------------------------------------
 Program:
