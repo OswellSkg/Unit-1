@@ -1,6 +1,8 @@
-## 09-02-2022 Quiz 05.a
+## 09-02-2022 Quiz 05
 
 #Given a number, create a program that produces the output factors.
+
+#[https://docs.google.com/presentation/d/1yhMenGxwHqeOgw2MP8ozuCJq6pF3D38Ajv8KllHAnLQ/](https://docs.google.com/presentation/d/1yhMenGxwHqeOgw2MP8ozuCJq6pF3D38Ajv8KllHAnLQ/)
 
 ------------------------------------------------------------------------
 
