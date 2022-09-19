@@ -2,7 +2,7 @@
 
 #Given a number, create a program that produces the output factors.
 
-#[https://docs.google.com/presentation/d/1yhMenGxwHqeOgw2MP8ozuCJq6pF3D38Ajv8KllHAnLQ/](https://docs.google.com/presentation/d/1yhMenGxwHqeOgw2MP8ozuCJq6pF3D38Ajv8KllHAnLQ/)
+#[Google Slides Link](https://docs.google.com/presentation/d/1yhMenGxwHqeOgw2MP8ozuCJq6pF3D38Ajv8KllHAnLQ/)
 
 ------------------------------------------------------------------------
 
