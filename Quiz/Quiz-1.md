@@ -27,7 +27,7 @@ The procedure to generate the outputs below are:
 
 ------------------------------------------------------------------------
 
-The coded program solution:
+The coded program:
 ```.py
 #08.25.2022 Quiz #1
 #Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
@@ -46,7 +46,7 @@ while x < len(words): #len(words) counts how many words there are, and x counts 
        print(words[x])
        x = x + 1
 ```
-
+------------------------------------------------------------------------
 Proof:
 ![Screen Shot 2022-09-19 at 20 58 23](https://user-images.githubusercontent.com/112055140/191012238-eb32ecc0-c6aa-489e-b9b5-2d39b4cf9775.png)
 ![Screen Shot 2022-09-19 at 20 58 38](https://user-images.githubusercontent.com/112055140/191012255-40c4add0-c08f-451a-a3da-b81f90106566.png)
