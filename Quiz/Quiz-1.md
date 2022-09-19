@@ -53,5 +53,8 @@ Proof:
 ### Fig.1
 Input: International | Output: I11l
 <img width="1026" alt="Input: International | Output: I11l" src="https://user-images.githubusercontent.com/112055140/191014532-cc4156e7-2aee-45fe-a384-8905027e1a4b.png">
+
+### Fig.2
+Input: (cats) + (dogs) = (troubles) | Output:(4) + (4) = (8)
 <img width="1026" alt="Input: (cats) + (dogs) = (troubles) | Output:(4) + (4) = (8)" src="https://user-images.githubusercontent.com/112055140/191014541-15e0396a-a260-47f8-926e-c730f78b601d.png">
 
