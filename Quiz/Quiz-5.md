@@ -21,6 +21,7 @@ while counter < number:
 
 ------------------------------------------------------------------------
 
-###Fig.1
-
-![Screen Shot 2022-09-19 at 19 11 35](https://user-images.githubusercontent.com/112055140/190995780-a086693b-816e-4ede-8d36-56033fddda86.png)
+Proof:
+### Fig.1
+Input: 999 | Output: 1,3,9,27,37,111,333
+<img width="1026" alt="Input: 999 | Output: 1,3,9,27,37,111,333" src="https://user-images.githubusercontent.com/112055140/191017618-0617b2b7-6df8-4827-a240-0eb2bbd5757d.png">
