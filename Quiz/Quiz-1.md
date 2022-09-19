@@ -5,7 +5,7 @@
 
 #The counter should count each words individually and not the whole sentence.
 
-#[https://docs.google.com/presentation/d/1AdYQ_ch5KAz-V7YcOctjIEK-Uyp_hBH6OoateH34Z_s/](https://docs.google.com/presentation/d/1AdYQ_ch5KAz-V7YcOctjIEK-Uyp_hBH6OoateH34Z_s/)
+#[Google Slides Link](https://docs.google.com/presentation/d/1AdYQ_ch5KAz-V7YcOctjIEK-Uyp_hBH6OoateH34Z_s/)
 
 
 ------------------------------------------------------------------------
