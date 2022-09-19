@@ -15,9 +15,6 @@
 1. Get Input.
 2. Separate the input by words.
 3. For each word: 
-
-a. Calculate the number of the characters.(nc)
-
-b. If the nc>2, first letter+(nc-2)+last letter. 
-  
-c. If not, then just print the word.
+  a. Calculate the number of the characters.(nc)
+  b. If the nc>2, first letter+(nc-2)+last letter. 
+  c. If not, then just print the word.
