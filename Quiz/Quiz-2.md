@@ -16,3 +16,5 @@ print(f"Your answer to the quiz is {output}")
 ```
 
 ![Screen Shot 2022-09-19 at 18 32 28](https://user-images.githubusercontent.com/112055140/190989443-6825319b-8e88-440e-bb03-bd81876b1e2c.png)
+![Screen Shot 2022-09-19 at 18 53 48](https://user-images.githubusercontent.com/112055140/190992912-a71d38e5-160b-499a-bc2a-20e59b1da230.png)
+![Screen Shot 2022-09-19 at 18 53 55](https://user-images.githubusercontent.com/112055140/190992940-dfc18b43-f3ad-4539-a1b1-81e10117e2a0.png)
