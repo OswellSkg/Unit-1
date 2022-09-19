@@ -1,14 +1,13 @@
-#08.25.2022 Quiz #1
+## 08.25.2022 Quiz #1
 #Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
 
 #Print the first letter, the number of letters without the first and last letters, and the last letter.
 
 #The counter should count each words individually and not the whole sentence.
 
-**Fig. 1** This is the solution to the black box
 
-
-**Fig.1** Shows my solution to the quiz001. The procedure to generate the outputs below are:
+------------------------------------------------------------------------
+The procedure to generate the outputs below are:
 
 | input                        | output          |
 |------------------------------|-----------------|
@@ -25,6 +24,8 @@
 
   c. If not, then just print the word.
 
+
+------------------------------------------------------------------------
 
 The coded program solution:
 ```.py
