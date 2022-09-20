@@ -37,5 +37,5 @@ Input: Command+R | Output: 10 random passwords of 20 letters
 <img width="1027" alt="Input: Command+R | Output: 10 random passwords of 20 letters" src="https://user-images.githubusercontent.com/112055140/191018343-4efb3917-742f-4aec-a93d-19f24b18a37f.png">
 
 ### Fig.2
-Input: Command+R | Output: 10 random passwords of 20 lettersv(Different from Fig.1 as the program generated new random passwords
+Input: Command+R | Output: 10 random passwords of 20 letters(Different from Fig.1 as the program generated new random passwords)
 <img width="1025" alt="Input: Command+R | Output: 10 random passwords of 20 lettersv(Different from Fig.1 as the program generated new random passwords)" src="https://user-images.githubusercontent.com/112055140/191018653-e38c29a1-9389-41b3-a4b3-008636010ad9.png">
