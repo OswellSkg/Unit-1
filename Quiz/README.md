@@ -1,6 +1,6 @@
 ## 00.00.0000 Quiz #0
 
-#Header Comment: 
+#Header Comment: This is the template to upload the quizzes on github.
 
 #Instruction
 
