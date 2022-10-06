@@ -27,6 +27,9 @@ for ln in range(1,2401,1):
         print(f"{ln}: Blue")
 ```
 
+### Flowchart:
+![Task1_Flowchart](https://user-images.githubusercontent.com/112055140/194348635-65efec5e-3e18-4a5a-926b-c2640733f597.png)
+
 ### Proof:
 [Input: Command+R | Output: 10th - 13th]
 <img width="1048" alt="Input: Command+R | Output: 10th - 13th" src="https://user-images.githubusercontent.com/112055140/194220717-6d01a62f-a249-4797-9fca-cbdda52346b2.png">
