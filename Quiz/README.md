@@ -2,9 +2,9 @@
 
 #Header Comment: This is the template to upload the quizzes on github.
 
-#Instruction
+#Follow the instructions such as "[Paste Program]," "[Input Input/Output]," or "[Drag Image]"(Instruction)
 
-#Instruction
+#Make necessary changes accordingly to each quizzes
 
 #[Google Slides Link](Paste Link)
 
