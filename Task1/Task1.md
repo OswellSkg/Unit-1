@@ -1,6 +1,6 @@
 # Task 1: Programming Task
 
-https://docs.google.com/document/d/1hg1WuwKhudukA3kbMVTUJQFguYmJyJ0VXhLZwf4l_1M/edit
+https://docs.google.com/document/d/1hg1WuwKhudukA3kbMVTUJQFguYmJyJ0VXhLZwf4l_1M/edit?usp=sharing
 
 The lockers are to be painted in four colors: red, white, yellow and blue, in order of locker numbers.
 
