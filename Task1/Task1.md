@@ -55,6 +55,9 @@ def locker_color():
 locker_color()
 ```
 
+###Flowchart:
+![Task1_Flowchart2](https://user-images.githubusercontent.com/112055140/194585179-bbe5f1b2-2cca-4bf6-b728-b26f0c9da8f5.png)
+
 ### Proof:
 [Input: 1 | Output: Red]
 <img width="1047" alt="Input: 1 | Output: Red" src="https://user-images.githubusercontent.com/112055140/194220874-3c087c3c-4bdc-4811-bd75-029b0251aa0a.png">
