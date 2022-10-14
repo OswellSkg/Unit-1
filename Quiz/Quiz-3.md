@@ -41,3 +41,9 @@ Input: C | Output: G
 ### Fig.4
 Input: G | Output: C
 <img width="1027" alt="Input: G | Output: C" src="https://user-images.githubusercontent.com/112055140/191013868-214512cb-6d93-4184-b1c4-95df2be313c7.png">
+
+------------------------------------------------------------------------
+
+### Flowchart:
+![ComputerScience-Quiz-3](https://user-images.githubusercontent.com/112055140/195838963-e25bad20-bec5-40b5-a645-0a39d7ff2247.jpg)
+
