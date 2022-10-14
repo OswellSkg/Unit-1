@@ -39,3 +39,8 @@ Input: Command+R | Output: 10 random passwords of 20 letters
 ### Fig.2
 Input: Command+R | Output: 10 random passwords of 20 letters(Different from Fig.1 as the program generated new random passwords)
 <img width="1025" alt="Input: Command+R | Output: 10 random passwords of 20 lettersv(Different from Fig.1 as the program generated new random passwords)" src="https://user-images.githubusercontent.com/112055140/191018653-e38c29a1-9389-41b3-a4b3-008636010ad9.png">
+
+------------------------------------------------------------------------
+
+### Flowchart:
+![ComputerScience-Quiz-7](https://user-images.githubusercontent.com/112055140/195853580-a9b75975-5033-4955-b31a-8feb6be3a0c2.jpg)
