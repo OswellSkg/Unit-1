@@ -27,3 +27,9 @@ Proof:
 ### Fig.1
 Input: 999 | Output: 1,3,9,27,37,111,333
 <img width="1026" alt="Input: 999 | Output: 1,3,9,27,37,111,333" src="https://user-images.githubusercontent.com/112055140/191017618-0617b2b7-6df8-4827-a240-0eb2bbd5757d.png">
+
+
+------------------------------------------------------------------------
+
+### Flowchart:
+![ComputerScience-Quiz-5](https://user-images.githubusercontent.com/112055140/195840189-e8390fee-adf7-4784-8f7e-8e4a2fe3f9bc.jpg)
