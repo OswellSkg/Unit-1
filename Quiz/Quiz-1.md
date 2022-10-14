@@ -55,3 +55,7 @@ Input: International | Output: I11l
 Input: (cats) + (dogs) = (troubles) | Output:(4) + (4) = (8)
 <img width="1026" alt="Input: (cats) + (dogs) = (troubles) | Output:(4) + (4) = (8)" src="https://user-images.githubusercontent.com/112055140/191014541-15e0396a-a260-47f8-926e-c730f78b601d.png">
 
+------------------------------------------------------------------------
+
+### Flowchart
+![ComputerScience-Quiz-1](https://user-images.githubusercontent.com/112055140/195838182-3abdedd9-e0ba-46ee-9177-d128e9de0c08.jpg)
