@@ -35,3 +35,7 @@ Input: 100,20 | Output: True
 Input: 100,100 | Output: False
 <img width="1026" alt="Input: 100,100 | Output: False" src="https://user-images.githubusercontent.com/112055140/191015864-34e4aa49-2ff8-4675-836e-df55a2dbadd9.png">
 
+------------------------------------------------------------------------
+
+### Flowchart: 
+![ComputerScience-Quiz-2](https://user-images.githubusercontent.com/112055140/195838491-cb1163de-1b6a-4a0f-9166-9fc2b7df3d7f.jpg)
