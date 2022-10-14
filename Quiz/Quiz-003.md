@@ -1,4 +1,4 @@
-## 09-02-2022 Quiz 03
+## 09-02-2022 Quiz 003
 
 #Header Comment: Create a program that translate the proteins in the DNA chain.
 
