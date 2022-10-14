@@ -1,4 +1,4 @@
-## 09-15-22 Quiz #7
+## 09-15-22 Quiz 007
 
 #Header Comment: Create a program that creates 10 random password with digits and letters of length 20.
 
