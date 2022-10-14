@@ -26,3 +26,7 @@ Input: [Input Input] | Output: [Input Output]
 ### Fig.2
 Input: [Input Input] | Output: [Input Output]
 [Drag Image]
+
+------------------------------------------------------------------------
+
+### Flowchart:
