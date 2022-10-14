@@ -1,4 +1,4 @@
-## 08.25.2022 Quiz #1
+## 08.25.2022 Quiz #001
 
 #Header Comment: Create a program that counds the number of letters of a word except the first and last letters.
 
