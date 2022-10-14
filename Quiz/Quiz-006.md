@@ -1,4 +1,4 @@
-## 09.12.2022 Quiz #06
+## 09.12.2022 Quiz 006
 
 #Header Comment: Given a string, create a program that produces the sum of the characters in the string.
 
