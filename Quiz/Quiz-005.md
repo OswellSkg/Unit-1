@@ -1,4 +1,4 @@
-## 09-02-2022 Quiz 05
+## 09-02-2022 Quiz 005
 
 #Given a number, create a program that produces the output factors.
 
