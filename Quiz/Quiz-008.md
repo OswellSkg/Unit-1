@@ -1,4 +1,4 @@
-## 09.16.2022 #Quiz 8
+## 09.16.2022 #Quiz 008
 
 #Header Comment: A hotel has 10 floors and 10 rooms on each floor. Write a program that prints the names of all rooms in the following format:
  1-Room 1F01, 2-Room 1F02...., 100-Room 10F10
