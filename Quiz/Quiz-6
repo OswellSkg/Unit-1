@@ -1,0 +1,34 @@
+## 09.12.2022 Quiz #06
+
+#Header Comment: Given a string, create a program that produces the sum of the characters in the string.
+
+#[Google Slides Link](Paste Link)
+
+
+------------------------------------------------------------------------
+
+Program:
+```.py
+string = input("Enter string: ")
+sum = 0
+
+for i in string:
+    sum += ord(i.lower()) - 96
+
+print(f'the sum of your ascii = {sum}')
+```
+
+------------------------------------------------------------------------
+
+Proof:
+### Fig.1
+Input: aaaa | Output: 4
+
+
+### Fig.2
+Input: bbbb | Output: 8
+
+
+------------------------------------------------------------------------
+
+### Flowchart:
