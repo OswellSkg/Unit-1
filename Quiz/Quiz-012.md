@@ -1,4 +1,4 @@
-## 00.00.0000 Quiz #0
+## 09.27.2022 #Quiz 012
 
 #Header Comment: Create a function that receives integer 2<N<10, and returns the multiplication table for the number up to 9.
 
