@@ -30,7 +30,8 @@ print(out)
 Proof:
 ### Fig.1
 Input: Enter | Output: 8,34,100,3480
-<img width="1048" alt="Input: Enter | Output: 8,34,100,3480" src="https://user-images.githubusercontent.com/112055140/195968217-b2891b58-5241-4666-b53c-9dbd617ce8bc.png">
+<img width="1047" alt="Input: Enter | Output: 8,34,100,3480" src="https://user-images.githubusercontent.com/112055140/195968322-efabd72d-8e8e-49d6-8ebb-821a51906c8d.png">
+
 
 ------------------------------------------------------------------------
 
