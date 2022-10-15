@@ -13,7 +13,7 @@ def mystery(A: int, B: int) -> int:
     return out
 
 out = mystery(2, 6)
-print(out
+print(out)
 
 out = mystery(4, 10)
 print(out)
