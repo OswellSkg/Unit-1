@@ -19,15 +19,11 @@ Tether's history goes back to a dollar-backed cryptocurrency "realcoin" which wa
 It was then rebranded to Tether to what is known today, a coin that provides stable price point to that of USD at all times. 
 Tether functions as the digital USD. 
 
-Works Cited
-1. CoinDesk. “Tether Price | USDT Price Index and Chart.” CoinDesk, https://www.coindesk.com/price/tether/. Accessed 23 September 2022.
-2. Hicks, Coryanne. “What Is Tether? How Does It Work? – Forbes Advisor INDIA.” Edited by Farran Powell. Forbes, 5 September 2022, https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-tether-usdt/. Accessed 23 September 2022.
-3. Kriptomat. “What is Tether? And how does USDT work? (2022 edition).” Kriptomat, https://kriptomat.io/cryptocurrencies/tether/what-is-tether/. Accessed 23 September 2022.
-4. Sandor, Krisztian. “What Is Tether? How USDT Works and What Backs Its Value.” CoinDesk, 1 June 2022, https://www.coindesk.com/learn/2022/06/01/what-is-tether-how-usdt-works-and-what-backs-its-value/. Accessed 23 September 2022.
-5. Tether Operations Limited. “About Tether.” Tether, https://tether.to/en/about-us. Accessed 23 September 2022.
+## Justification to proposed solution
 
+USDT is a stable cryptocurrency that is correlated to that of the United States Dollar. Since Ms. Sato is not an experienced trader in cryptocurrency, this stability can bring her a chance to gain experience without a big loss. The USDT can also provide Ms. Sato with an opportunity to further explore and experiment with cryptocurrency of how it works and how it converts to real-life currencies, without any worries that other cryptocurrencies may bring to her. 
 
-Justify the tools/structure of your solution
+I will use the software Python3 to program my digital ledger. Firstly, this is due to the code-readability emphasized syntax of Python that brings efficiency and flexibility to the developer, myself. By using Python3, it allows me and the program to be very sustainable as the software gives me access to easy-maintanance of the program for long-term uses. Secondly, Python3 encourages developers a Test Driven Development style, also known as TDD. This means that Python3 allows me to swiftly create a prototype of the digital ledger, and shape it to become more solid in favor of my client. For that reason, with Python3, I can be more client-friendly and reflect their wills on my program. Thirdly and lastly, Python3 is very commonly used for data analytics. The language will help me and my client to easily work with datas, and easily organize the finances of my client. 
 
 
 ## Success Criteria
@@ -49,3 +45,11 @@ Justify the tools/structure of your solution
 | Task No | Planned Action        | Planned Outcome                                                                          | Time estimate | Target completion date | Criterion |
 |---------|-----------------------|------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Create system diagram | To have a clear idea of the hardware and software requirements for the proposed solution | 10 min        | Sep 24                 | B         |
+
+
+## Works Cited
+1. CoinDesk. “Tether Price | USDT Price Index and Chart.” CoinDesk, https://www.coindesk.com/price/tether/. Accessed 23 September 2022.
+2. Hicks, Coryanne. “What Is Tether? How Does It Work? – Forbes Advisor INDIA.” Edited by Farran Powell. Forbes, 5 September 2022, https://www.forbes.com/advisor/in/investing/cryptocurrency/what-is-tether-usdt/. Accessed 23 September 2022.
+3. Kriptomat. “What is Tether? And how does USDT work? (2022 edition).” Kriptomat, https://kriptomat.io/cryptocurrencies/tether/what-is-tether/. Accessed 23 September 2022.
+4. Sandor, Krisztian. “What Is Tether? How USDT Works and What Backs Its Value.” CoinDesk, 1 June 2022, https://www.coindesk.com/learn/2022/06/01/what-is-tether-how-usdt-works-and-what-backs-its-value/. Accessed 23 September 2022.
+5. Tether Operations Limited. “About Tether.” Tether, https://tether.to/en/about-us. Accessed 23 September 2022.
