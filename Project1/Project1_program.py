@@ -12,11 +12,11 @@
 
 ## Initial Setup ##
 
-# Importing Modules #
+# Importing Modules
 import yfinance as yf
 from my_library import validate_int_input
 
-# Defining Variables #
+# Defining Variables
 crypto = "USDT-USD"
 crypto_name = "Tether"
 ChosenTicker = yf.Ticker(crypto)
@@ -213,11 +213,16 @@ def withdraw_deposit():
         exit()
 
 def transaction_history():
+    #only shows the last 10 transactions
     print(f"\n{colors[11]}[4]TRANSACTION HISTORY:{end_code}")
     with open("Transaction_record.csv", "r") as file:
         record = file.readlines()
+        i = 0
         for line in record:
-            print(line)
+            if i > 0:
+                line = line.split(" : ")
+                print(line[0] + " : " + line[1])
+            i += 1
 
 def past_records():
     # gets past month(based on current date) of data of the cryptocurrency from the plugin yfinannce and print it for the user
@@ -250,6 +255,7 @@ while login_status == True:
     elif choice == 6:
         print("\n")
         print(f"{colors[1]}Exiting...{end_code}")
+        print(f"{colors[1]}This Crypto Wallet experience was brought to you by Oswell T. Sakaguchi.{end_code}")
         exit()
     else:
         print(f"{colors[1]}Invalid Input. Please enter your choice[1~6]: {end_code}")
