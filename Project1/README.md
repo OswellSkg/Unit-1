@@ -42,6 +42,20 @@ I will use the software Python3 to program my digital ledger. Firstly, this is d
 ![CS Hardware system diagram](https://user-images.githubusercontent.com/112055140/196055740-de804461-dd54-4e25-a9ca-4afc1fea3ac8.jpeg)
 
 ## Flow Diagrams
+### Chart 1: Login System
+![ComputerScience-Unit1_Project_1](https://user-images.githubusercontent.com/112055140/196067676-3872323f-28cf-4059-b0bd-12817faed28c.jpg)
+**Figure 1** The chart above is the flowchart for the Login system of my digital ledger.  To verify the user's input, the login system refers to a different csv file, and check it against the username and the password recorded in the file. When the user misinputs either the username or the password, the login system will automatically exit the program. On the other hand, if the user properly inputs both the correct username and password within the given 3 chances, the login system will allow the user to move on to the main menu.
+
+
+### Chart 2: Wallet Balance system
+![ComputerScience-Unit1_Project_2](https://user-images.githubusercontent.com/112055140/196067681-91b25655-ba46-4fb0-a179-7209b5e9afb6.jpg)
+**Figure 2** The chart above is the flowchart for the Wallet Balance system for my digital ledger. This part of the program will be seen when the user chooses 2 from the Main Menu. This wallet balance system allows the user to see their balance in both cryptocurrency and United States Dollar. The wallet balance system achieves this by asking the yfinance plugin the conversion rate from USDT to USD and multiplying USDT by the given conversion rate. 
+
+### Chart 3: Transaction History
+![ComputerScience-Unit1_Project_3](https://user-images.githubusercontent.com/112055140/196067697-8bb5f7c8-6fe6-4ac3-a924-8055983f7746.jpg)
+**Figure 3** The chart above is the flowchart for the Transaction History system for my digital ledger.This part of the program will be seen when the user chooses 4 from the Main Menu. This Tranaction History system allows the user to see their transaction history, that is recorded on a different csv file. The system will access the csv record and list down the transactions made for the user to see. This system will skip the first line as the transaction record only starts from the second line.
+
+
 ## Record of Tasks
 | Task No | Planned Action        | Planned Outcome                                                                          | Time estimate | Target completion date | Criterion |
 |---------|-----------------------|------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
