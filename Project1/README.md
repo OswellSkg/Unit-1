@@ -58,7 +58,7 @@ I will use the software Python3 to program my digital ledger. Firstly, this is d
 ### Chart 3: Transaction History
 ![ComputerScience-Unit1_Project_3](https://user-images.githubusercontent.com/112055140/196067697-8bb5f7c8-6fe6-4ac3-a924-8055983f7746.jpg)
 
-**Figure 5:** The chart above is the flowchart for the Transaction History system for my digital ledger.This part of the program will be seen when the user chooses 4 from the Main Menu. This Tranaction History system allows the user to see their transaction history, that is recorded on a different csv file. The system will access the csv record and list down the transactions made for the user to see. This system will skip the first line as the transaction record only starts from the second line.
+**Figure 5:** The chart above is the flowchart for the Transaction History system for my digital ledger. This part of the program will be seen when the user chooses 4 from the Main Menu. This Tranaction History system allows the user to see their transaction history, that is recorded on a different csv file. The system will access the csv record and list down the transactions made for the user to see. This system will skip the first line as the transaction record only starts from the second line.
 
 
 ## Record of Tasks
