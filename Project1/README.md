@@ -170,6 +170,6 @@ The code above allows the user to see the transaction history(Deposit, Withdrawa
 4. Sandor, Krisztian. “What Is Tether? How USDT Works and What Backs Its Value.” CoinDesk, 1 June 2022, https://www.coindesk.com/learn/2022/06/01/what-is-tether-how-usdt-works-and-what-backs-its-value/. Accessed 23 September 2022.
 5. Tether Operations Limited. “About Tether.” Tether, https://tether.to/en/about-us. Accessed 23 September 2022.
 6. https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b
-7. https://www.simplilearn.com/why-python-is-essential-for-data-analysis-article#:~:text=Thanks%20to%20Python's%20focus%20on,needs%20when%20using%20older%20languages.
+7. https://www.simplilearn.com/why-python-is-essential-for-data-analysis-article
 8. https://www.geeksforgeeks.org/python-for-data-science/#:~:text=One%20of%20the%20main%20reasons,more%20suited%20for%20quick%20prototyping.
 9. 
