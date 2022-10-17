@@ -39,7 +39,8 @@ I will use the software Python3 to program my digital ledger. Firstly, this is d
 
 # Criteria B: Design
 ## System Diagram
- - add my system diagram
+![CS Hardware system diagram](https://user-images.githubusercontent.com/112055140/196055740-de804461-dd54-4e25-a9ca-4afc1fea3ac8.jpeg)
+
 ## Flow Diagrams
 ## Record of Tasks
 | Task No | Planned Action        | Planned Outcome                                                                          | Time estimate | Target completion date | Criterion |
