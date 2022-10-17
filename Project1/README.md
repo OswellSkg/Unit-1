@@ -87,6 +87,75 @@ I will use the software Python3 to program my digital ledger. Firstly, this is d
 | 21           | Complete test plan                                                                                                                            | Clear table of test plan finalized in order to help the client visualize the <br>process of testing the program                                                                                                                                                                                                                                                                                                                                                    | 30 minutes        | Oct 7th                    | B             |
 | 22           |                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                   |                            |               |
 
+# Criteria C: Development
+
+## Techniques/Tools used: 
+Functions 
+For/while loops 
+Input Validation 
+If statements 
+
+## Login System
+```.py
+pass_wrong_count = 0
+username_input = input("Username:")
+password_input = input("Password:")
+
+login_status = False
+
+while pass_wrong_count < 3:
+    database = open("username.csv", "r")
+    for line in database:
+        line = line.split(",")
+    while username_input != line[0] or password_input != line[1]:
+        pass_wrong_count += 1
+        if pass_wrong_count < 3:
+            print(f"{colors[1]}ERROR: Incorrect Username or Password{end_code}" + "\n" + f"{colors[1]}Please try again.{end_code}" + "\n")
+            username_input = input("Please input your Username:")
+            password_input = input("Please input your Password:")
+        elif pass_wrong_count == 3:
+            print(f"{colors[1]}You have entered the wrong Username or Password 3 times.\nAccess Denied. Please try again later.{end_code}")
+            exit()
+    else:
+        login_status = True
+        print(f"\n{colors[6]}[ACCESS GRANTED.]\nWelcome to your Crypto Wallet, {username_input}.{end_code}")
+        break
+
+database.close()
+```
+
+## Display wallet balance
+```.py
+def wallet_balance():
+    print(f"\n{colors[11]}[2]WALLET BALANCE:{end_code}")
+    with open("Transaction_record.csv", "r") as file:
+        wallet = file.readlines()
+        i = 0
+        for line in wallet:
+            if i > 0:
+                data = line.split(" : ")
+                data = line.split(",")
+                # print(data)
+                balance = float(data[3])
+            i += 1
+    print(f"{colors[6]}Loading...{end_code}")
+    temp = f"You currently have {colors[1]}{balance} {crypto_name}{end_code} in your wallet, which is currently worth {colors[1]}{round(balance * float(ChosenTicker.info['regularMarketPrice']), 2)} USD{end_code}."
+    print(temp)
+```
+
+## Display transaction history
+```.py
+def transaction_history():
+    print(f"\n{colors[11]}[4]TRANSACTION HISTORY:{end_code}")
+    with open("Transaction_record.csv", "r") as file:
+        record = file.readlines()
+        i = 0
+        for line in record:
+            if i > 0:
+                line = line.split(" : ")
+                print(line[0] + " : " + line[1])
+            i += 1
+```
 
 ## Works Cited
 1. CoinDesk. “Tether Price | USDT Price Index and Chart.” CoinDesk, https://www.coindesk.com/price/tether/. Accessed 23 September 2022.
