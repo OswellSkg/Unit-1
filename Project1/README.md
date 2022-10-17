@@ -123,6 +123,8 @@ while pass_wrong_count < 3:
 
 database.close()
 ```
+The code above allows the user to log into the digital ledger, also known as the crypto wallet. In this code, the user is asked to enter a username and a password. This input is then compared to a username and a password recorded in an external csv file. If the input and the recorded username&password does not match, the program asks the user to retry the input. The program gives the user 3 chances until it automatically exits the program due to exceeding the attempt number limit. If the user successfully inputs the correct username&password, the program breaks the set of doe seen above and proceeds the user to the main menu where they are given options to choose from the functions of the digital ledger. 
+
 
 ## Display wallet balance
 ```.py
@@ -142,6 +144,8 @@ def wallet_balance():
     temp = f"You currently have {colors[1]}{balance} {crypto_name}{end_code} in your wallet, which is currently worth {colors[1]}{round(balance * float(ChosenTicker.info['regularMarketPrice']), 2)} USD{end_code}."
     print(temp)
 ```
+The code above allows the user to see the wallet balance that they have. The code accesses an external csv database that the transaction records are kept. The code then splits the database per line by the given character to only leave the number of the balance, and remove all other unnecessary variables. With that variable, the code proceeds to convert the given cryptocurrency balance to USD. The code outputs the cryptocurrency balance as well as its value in United States Dollar. 
+
 
 ## Display transaction history
 ```.py
@@ -156,6 +160,8 @@ def transaction_history():
                 print(line[0] + " : " + line[1])
             i += 1
 ```
+The code above allows the user to see the transaction history(Deposit, Withdrawal). The code accesses an external csv database where the deposit and withdrawal are all recorded and kept. The code above reads the lines of the database, and displays it to the user. 
+
 
 ## Works Cited
 1. CoinDesk. “Tether Price | USDT Price Index and Chart.” CoinDesk, https://www.coindesk.com/price/tether/. Accessed 23 September 2022.
